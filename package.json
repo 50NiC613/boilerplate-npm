@@ -1,8 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Yulian Allan",
+  "description": "A ver si me saco el biombo",
+  "keywords": [ "freecodecamp", "curso", "dinero" ],
+  "license": "UCI",
+  "version": "0.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
